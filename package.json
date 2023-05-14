@@ -1,9 +1,8 @@
 {
-  "name": "winXP",
-  "version": "0.1.1",
+  "name": "winxp",
+  "version": "0.0.1",
   "private": true,
-  "author": "ShizukuIchi <shizukuichi@gmail.com>",
-  "homepage": "https://wxp.vercel.app",
+  "author": "rotskerr>",
   "dependencies": {
     "lodash.samplesize": "^4.2.0",
     "react": "^16.8.6",
@@ -33,5 +32,15 @@
   },
   "engines": {
     "node": ">=10.16.0"
+  },
+  "description": "🏁 Web based Windows XP desktop recreation.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rotskerr/winxp.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rotskerr/winxp/issues"
   }
 }
